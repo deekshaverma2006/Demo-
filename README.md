@@ -1,4 +1,4 @@
 # Demo-
 This is my first git repository.
 <br>
-Author-Deeksha Verma
+Author-Deeksha(Diksha) Verma
